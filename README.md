@@ -1,15 +1,5 @@
 # earthdata
-<div align="center">
-  <p>
-    <a href="https://www.satellite-image-deep-learning.com/">
-        <img src="logo.png" width="700">
-    </a>
-</p>
-  <h2>Datasets for deep learning applied to satellite and aerial imagery.</h2>
 
-# 👉 [satellite-image-deep-learning.com](https://www.satellite-image-deep-learning.com/) 👈
-
-</div>
 
 **How to use this repository:** Use `Control+F` to search for specific datasets or papers in this document.
 
